@@ -34,6 +34,10 @@ def send_echo(message):
         result = brig
     elif name == "Волков":
         result = brig
+    elif name == "Матвеев":
+        result = brig
+    elif name == "матвеев":
+        result = brig       
     elif name == "волков":
         result = brig
     elif name == "Гремин":
